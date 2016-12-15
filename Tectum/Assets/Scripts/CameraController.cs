@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour {
 
-    public GameObject Player;
+    public GameObject m_Player;
 
     void Start ()
     {
@@ -13,6 +13,6 @@ public class CameraController : MonoBehaviour {
 	
 	void Update ()
     {
-        transform.position = Player.transform.position + new Vector3(0,0,-10);
+        transform.position = m_Player.transform.position + new Vector3(0,0,-10);
     }
 }
