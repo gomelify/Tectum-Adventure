@@ -8,9 +8,6 @@ public class PlayerController : MonoBehaviour {
 
     private Rigidbody2D rb2d;
     private Vector3 Diff;
-    private float Mouse_X;
-    private float Mouse_Y;
-    private float PlayerPosition;
     private float Angle;
 
 	void Start ()
