@@ -17,20 +17,20 @@ Platform assembly: C:\Users\David\Desktop\Tectum\Tectum-Adventure\Tectum\Tectum_
 Loading C:\Users\David\Desktop\Tectum\Tectum-Adventure\Tectum\Tectum_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\David\Desktop\Tectum\Tectum-Adventure\Tectum\Tectum_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\David\Desktop\Tectum\Tectum-Adventure\Tectum\Tectum_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.022 seconds
+- Completed reload, in  0.048 seconds
 Platform assembly: C:\Users\David\Desktop\Tectum\Tectum-Adventure\Tectum\Tectum_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\David\Desktop\Tectum\Tectum-Adventure\Tectum\Tectum_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.943588 ms
+UnloadTime: 1.036350 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.077035 ms
+UnloadTime: 4.134258 ms
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 247.
-Total: 0.177694 ms (FindLiveObjects: 0.030117 ms CreateObjectMapping: 0.008734 ms MarkObjects: 0.130108 ms  DeleteObjects: 0.008131 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.176790 ms (FindLiveObjects: 0.019877 ms CreateObjectMapping: 0.011143 ms MarkObjects: 0.134023 ms  DeleteObjects: 0.011143 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1a4c -> priority: 1 
-  Thread -> id: 1bdc -> priority: 1 
+  Thread -> id: 2be8 -> priority: 1 
+  Thread -> id: 3080 -> priority: 1 
